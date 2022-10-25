@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const cors = require('cors');
-const port = 6000;
+const port = 7000;
 
 const courses =  require('./courses.json');
 
@@ -17,5 +17,5 @@ app.get('/courses', (req, res) => {
 
 
 app.listen(port, () =>{
-    console.log('Server running ')
+    console.log('Server running on port ', port);
 })
