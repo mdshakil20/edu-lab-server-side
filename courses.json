@@ -1,34 +1,81 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "CourseTitle": "Learn html",
+      "instructor" : "Shakil",
+      "discription" : "good coursegood coursegood coursegood coursegood coursegood coursegood course",
+      "img" : "https://i.postimg.cc/s2c366nc/Group.png",
+      "totalLesson" : " ",
+      "totalHour" : " ",
+      "totalTask" : " ",
+      "price" : "12",
+      "star" : " ",
+      "review" : " "
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "CourseTitle": "Learn css",
+      "instructor" : "Shakil",
+      "discription" : "good coursegood coursegood coursegood coursegood coursegood coursegood course",
+      "img" : "https://i.postimg.cc/4ND4mh7z/Group-4.png",
+      "totalLesson" : " ",
+      "totalHour" : " ",
+      "totalTask" : " ",
+      "price" : "20",
+      "star" : " ",
+      "review" : " "
     },
     {
       "id": "03",
-      "name": "International News"
+      "CourseTitle": "Learn JavaScrip",
+      "instructor" : "Shakil",
+      "discription" : "good coursegood coursegood coursegood coursegood coursegood coursegood course",
+      "img" : "https://i.postimg.cc/8PJPpb5p/Group-2.png",
+      "totalLesson" : " ",
+      "totalHour" : " ",
+      "totalTask" : " ",
+      "price" : "13",
+      "star" : " ",
+      "review" : " "
     },
     {
       "id": "04",
-      "name": "Sports"
+      "CourseTitle": "Learn react",
+      "instructor" : "Shakil",
+      "discription" : "good coursegood coursegood coursegood coursegood coursegood coursegood course",
+      "img" : "https://i.postimg.cc/wxbjYr94/Group-1.png",
+      "totalLesson" : " ",
+      "totalHour" : " ",
+      "totalTask" : " ",
+      "price" : "18",
+      "star" : " ",
+      "review" : " "
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "CourseTitle": "Learn php",
+      "instructor" : "Shakil",
+      "discription" : "good coursegood coursegood coursegood coursegood coursegood coursegood course",
+      "img" : "https://i.postimg.cc/pLKW8Xz3/Group-3.png",
+      "totalLesson" : " ",
+      "totalHour" : " ",
+      "totalTask" : " ",
+      "price" : "22",
+      "star" : " ",
+      "review" : " "
     },
     {
       "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
+      "CourseTitle": "Learn Python",
+      "instructor" : "Shakil",
+      "discription" : "good coursegood coursegood coursegood coursegood coursegood coursegood course",
+      "img" : "https://i.postimg.cc/W4j27L7z/Group-5.png",
+      "totalLesson" : " ",
+      "totalHour" : " ",
+      "totalTask" : " ",
+      "price" : "12",
+      "star" : " ",
+      "review" : " "
     }
+
   ]
